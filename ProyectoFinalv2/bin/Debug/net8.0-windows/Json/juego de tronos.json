@@ -1,0 +1,542 @@
+[
+  {
+    "Category": "DefaultCategory",
+    "Id": "91655e6b2b4a4ac69c5c07df125b0018",
+    "CorrectAnswer": "Jaime Lannister",
+    "IncorrectAnswers": [
+      "Eddard Stark",
+      "Jon Snow",
+      "Robb Stark"
+    ],
+    "Question": {
+      "Text": "¿Quién es conocido como el \"Matarreyes\"?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "8e6f499fe4a74dea9e31cb50a21e5fb2",
+    "CorrectAnswer": "Oye mi rugido",
+    "IncorrectAnswers": [
+      "Se acerca el invierno",
+      "Nuestra es la furia",
+      "Fuego y sangre"
+    ],
+    "Question": {
+      "Text": "¿Cuál es el lema de la casa Lannister?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "effea49e526d4723bf0ea01f99d57c62",
+    "CorrectAnswer": "Wun Wun",
+    "IncorrectAnswers": [
+      "Mag Mar Tun Doh Weg",
+      "Dongo",
+      "Gog"
+    ],
+    "Question": {
+      "Text": "¿Cómo se llama el gigante que acompaña a Jon Snow?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "feb5c146d9d54d2fa75b6bd0d476bd1d",
+    "CorrectAnswer": "Margaery Tyrell",
+    "IncorrectAnswers": [
+      "Sansa Stark",
+      "Cersei Lannister",
+      "Daenerys Targaryen"
+    ],
+    "Question": {
+      "Text": "¿Quién se casa con Joffrey Baratheon?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "b59f29e4f2dd47b89f09af697ee88ab3",
+    "CorrectAnswer": "Ninguna",
+    "IncorrectAnswers": [
+      "Targaryen",
+      "Baratheon",
+      "Greyjoy"
+    ],
+    "Question": {
+      "Text": "¿De qué casa es Melisandre?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "386d43249e3a405bbe5dca52797a883c",
+    "CorrectAnswer": "Sandor Clegane",
+    "IncorrectAnswers": [
+      "Gregor Clegane",
+      "Gendry",
+      "Podrick"
+    ],
+    "Question": {
+      "Text": "¿Cuál es el verdadero nombre de \"El Perro\"?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "d47971c8c1de4a699e1f4f60afa16c14",
+    "CorrectAnswer": "Daenerys Targaryen",
+    "IncorrectAnswers": [
+      "Cersei Lannister",
+      "Sansa Stark",
+      "Margaery Tyrell"
+    ],
+    "Question": {
+      "Text": "¿Quién fue la esposa de Khal Drogo?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "9bbdf7032e4b4af1bd6a93240756e127",
+    "CorrectAnswer": "Tyrion Lannister",
+    "IncorrectAnswers": [
+      "Jaime Lannister",
+      "Arya Stark",
+      "Sansa Stark"
+    ],
+    "Question": {
+      "Text": "¿Quién mata a Tywin Lannister?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "bcde3cb539ad4a279f722b59659273aa",
+    "CorrectAnswer": "Baratheon",
+    "IncorrectAnswers": [
+      "Stark",
+      "Targaryen",
+      "Lannister"
+    ],
+    "Question": {
+      "Text": "¿Qué casa tiene como emblema un ciervo?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "0e8f5ccdf6d54ed9b1f240656f8a6c78",
+    "CorrectAnswer": "Brynden Rivers",
+    "IncorrectAnswers": [
+      "Jojen Reed",
+      "Meera Reed",
+      "Benjen Stark"
+    ],
+    "Question": {
+      "Text": "¿Cómo se llama el cuervo de tres ojos?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "e3e4b09b5ef843a3bc6dc7264accc3ce",
+    "CorrectAnswer": "Lyanna Stark",
+    "IncorrectAnswers": [
+      "Catelyn Stark",
+      "Elia Martell",
+      "Lysa Arryn"
+    ],
+    "Question": {
+      "Text": "¿Quién es la madre de Jon Snow?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "3418a1bf6fa74bee95a521686a1e3087",
+    "CorrectAnswer": "Reina de los Ándalos",
+    "IncorrectAnswers": [
+      "Guardiana del Norte",
+      "Reina de la Tormenta",
+      "Señora de Invernalia"
+    ],
+    "Question": {
+      "Text": "¿Qué título tiene Daenerys Targaryen?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "8d5a0ba1d20c4a30b1c364eb30e45ac8",
+    "CorrectAnswer": "Hielo",
+    "IncorrectAnswers": [
+      "Garra",
+      "Veneno de Corazón",
+      "Juramento"
+    ],
+    "Question": {
+      "Text": "¿Cómo se llama la espada ancestral de la casa Stark?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "49fbe99e6c94445da7e67347cb8adfb1",
+    "CorrectAnswer": "Brandon Stark",
+    "IncorrectAnswers": [
+      "Benjen Stark",
+      "Robb Stark",
+      "Rickon Stark"
+    ],
+    "Question": {
+      "Text": "¿Quién es el hermano mayor de Eddard Stark?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "c86866ead31c419aac25e0128c6f0f3d",
+    "CorrectAnswer": "Aemon Targaryen",
+    "IncorrectAnswers": [
+      "Samwell Tarly",
+      "Jorah Mormont",
+      "Jeor Mormont"
+    ],
+    "Question": {
+      "Text": "¿Cómo se llama el maestre de la Guardia de la Noche?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "e5f8f6a808fd4a46a2baad2d0901e5e1",
+    "CorrectAnswer": "Olenna Tyrell",
+    "IncorrectAnswers": [
+      "Tyrion Lannister",
+      "Sansa Stark",
+      "Margaery Tyrell"
+    ],
+    "Question": {
+      "Text": "¿Quién envenena a Joffrey Baratheon?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "9a1a41128d6645e3ab8a02642200bd96",
+    "CorrectAnswer": "Drogon",
+    "IncorrectAnswers": [
+      "Rhaegal",
+      "Viserion",
+      "Balerion"
+    ],
+    "Question": {
+      "Text": "¿Cómo se llama el dragón negro de Daenerys?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "4a278cab949a4a2a8001e799b60eb456",
+    "CorrectAnswer": "Jaqen H'ghar",
+    "IncorrectAnswers": [
+      "Syrio Forel",
+      "Sandor Clegane",
+      "Brienne de Tarth"
+    ],
+    "Question": {
+      "Text": "¿Quién entrena a Arya Stark en Braavos?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "4fb2df4eb1a14bd8941a1e95b671ac92",
+    "CorrectAnswer": "Theon Greyjoy",
+    "IncorrectAnswers": [
+      "Ramsay Bolton",
+      "Podrick Payne",
+      "Gendry"
+    ],
+    "Question": {
+      "Text": "¿Cuál es el nombre verdadero de Reek?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "f6e509be8e004866bdf6501a09234fa2",
+    "CorrectAnswer": "Jon Snow",
+    "IncorrectAnswers": [
+      "Bran Stark",
+      "Rickon Stark",
+      "Sansa Stark"
+    ],
+    "Question": {
+      "Text": "¿Quién es el Rey en el Norte después de Robb Stark?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "cc945bfa89114a39bd54bd5bf9cb2286",
+    "CorrectAnswer": "Vidriagón",
+    "IncorrectAnswers": [
+      "Hierro",
+      "Acero Valyrio",
+      "Bronce"
+    ],
+    "Question": {
+      "Text": "¿Qué metal se usa para matar caminantes blancos?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "ba4fc285c2c948f688832075862648c9",
+    "CorrectAnswer": "Daenerys Targaryen",
+    "IncorrectAnswers": [
+      "Cersei Lannister",
+      "Margaery Tyrell",
+      "Sansa Stark"
+    ],
+    "Question": {
+      "Text": "¿Quién es la madre de los dragones?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "95604bf03e474e2ea7637388ffc6e096",
+    "CorrectAnswer": "Yara Greyjoy",
+    "IncorrectAnswers": [
+      "Asha Greyjoy",
+      "Ellaria Sand",
+      "Osha"
+    ],
+    "Question": {
+      "Text": "¿Cómo se llama la hermana de Theon Greyjoy?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "f5bba13a63ed41148513978c31037e07",
+    "CorrectAnswer": "Aerys II Targaryen",
+    "IncorrectAnswers": [
+      "Rhaegar Targaryen",
+      "Viserys Targaryen",
+      "Robert Baratheon"
+    ],
+    "Question": {
+      "Text": "¿Quién es el padre de Daenerys Targaryen?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "314d6136a4be43ada17693be9c7299de",
+    "CorrectAnswer": "Verano",
+    "IncorrectAnswers": [
+      "Nymeria",
+      "Fantasma",
+      "Peludo"
+    ],
+    "Question": {
+      "Text": "¿Cómo se llama el lobo huargo de Bran Stark?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "8b0d23b156c8484f9dc45190242b8587",
+    "CorrectAnswer": "Greyjoy",
+    "IncorrectAnswers": [
+      "Stark",
+      "Targaryen",
+      "Lannister"
+    ],
+    "Question": {
+      "Text": "¿Qué casa tiene como emblema un kraken?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "7577327bf22946c18383c357a272e271",
+    "CorrectAnswer": "Aerys II Targaryen",
+    "IncorrectAnswers": [
+      "Robert Baratheon",
+      "Rhaegar Targaryen",
+      "Viserys Targaryen"
+    ],
+    "Question": {
+      "Text": "¿Quién era el \"Rey Loco\"?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "76d2ed2de27343a7ba446cc7a165df1b",
+    "CorrectAnswer": "Una sombra",
+    "IncorrectAnswers": [
+      "Stannis Baratheon",
+      "Brienne de Tarth",
+      "Margaery Tyrell"
+    ],
+    "Question": {
+      "Text": "¿Quién mata a Renly Baratheon?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "186998364e11485b8758ce3833534aac",
+    "CorrectAnswer": "Cersei Lannister",
+    "IncorrectAnswers": [
+      "Sansa Stark",
+      "Margaery Tyrell",
+      "Catelyn Stark"
+    ],
+    "Question": {
+      "Text": "¿Quién es la madre de Joffrey Baratheon?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "c2be0bec5b814e0c9643d6d76ac2b39f",
+    "CorrectAnswer": "Dama",
+    "IncorrectAnswers": [
+      "Nymeria",
+      "Verano",
+      "Fantasma"
+    ],
+    "Question": {
+      "Text": "¿Cómo se llama el lobo huargo de Sansa Stark?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  }
+]

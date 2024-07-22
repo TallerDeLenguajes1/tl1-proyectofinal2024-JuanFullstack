@@ -1,0 +1,26 @@
+[
+  {
+    "nombreJugador": "Claudia",
+    "puntaje": 650
+  },
+  {
+    "nombreJugador": "Lucas",
+    "puntaje": 350
+  },
+  {
+    "nombreJugador": "Maria",
+    "puntaje": 800
+  },
+  {
+    "nombreJugador": "Claudia",
+    "puntaje": 750
+  },
+  {
+    "nombreJugador": "Sebastian",
+    "puntaje": 950
+  },
+  {
+    "nombreJugador": "Veronica",
+    "puntaje": -150
+  }
+]

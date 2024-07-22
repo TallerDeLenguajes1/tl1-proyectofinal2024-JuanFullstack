@@ -1,0 +1,1442 @@
+[
+  {
+    "Category": "science",
+    "Id": "62433368cfaae40c129613dd",
+    "CorrectAnswer": "A Tom",
+    "IncorrectAnswers": [
+      "A Rooster",
+      "A Boar",
+      "A Buck"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"A male cat is known as what?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "film_and_tv",
+    "Id": "625fd700dc0dd3b72da64d1b",
+    "CorrectAnswer": "2001",
+    "IncorrectAnswers": [
+      "1998",
+      "2004",
+      "2007"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"In which year was A Beautiful Mind released?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "film_and_tv",
+    "Id": "622a1c377cc59eab6f950719",
+    "CorrectAnswer": "Kathy Bates",
+    "IncorrectAnswers": [
+      "Maggie Smith",
+      "Helen Mirren",
+      "Kate Winslet"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"Which actress has played roles in both American Horror Story and Titanic?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "history",
+    "Id": "64746b055a4c31088dd9d011",
+    "CorrectAnswer": "Haiti",
+    "IncorrectAnswers": [
+      "Egypt",
+      "Cuba",
+      "Chile"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"What is the only state in history to have been established by a slave revolt?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "film_and_tv",
+    "Id": "625698e39da29df7b05f72a4",
+    "CorrectAnswer": "Michael Douglas",
+    "IncorrectAnswers": [
+      "Benedict Cumberbatch",
+      "Tom Hiddleston",
+      "Stellan Skarsgård"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"Which actor plays the role of Dr. Hank Pym in the Marvel Cinematic Universe?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "arts_and_literature",
+    "Id": "622a1c347cc59eab6f94fa4e",
+    "CorrectAnswer": "Impressionism",
+    "IncorrectAnswers": [
+      "Neoclassicism",
+      "Modernism",
+      "Crystal Cubism"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"The painting \\\"Luncheon on the Boating Party\\\" by Pierre-Auguste Renoir is a part of which art movement?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "geography",
+    "Id": "622a1c357cc59eab6f94fd4d",
+    "CorrectAnswer": "Kazakhstan",
+    "IncorrectAnswers": [
+      "Mongolia",
+      "Saudi Arabia",
+      "Afghanistan"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"What is the largest landlocked country in the world?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "food_and_drink",
+    "Id": "622a1c3b7cc59eab6f9515be",
+    "CorrectAnswer": "Sheep",
+    "IncorrectAnswers": [
+      "Cow",
+      "Moose",
+      "Pig"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"Greek Feta cheese is made from the milk of which animal?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "society_and_culture",
+    "Id": "622a1c367cc59eab6f95034d",
+    "CorrectAnswer": "Ector",
+    "IncorrectAnswers": [
+      "Uther",
+      "Constantine",
+      "Guinevere"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"Who was King Arthur's foster-father?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "food_and_drink",
+    "Id": "63f39519989356ef48370c13",
+    "CorrectAnswer": "Cherry",
+    "IncorrectAnswers": [
+      "Mango",
+      "Papaya",
+      "Pineapple"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"Which of these fruits is not a tropical fruit?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "food_and_drink",
+    "Id": "622a1c367cc59eab6f95022c",
+    "CorrectAnswer": "Grapefruit & Tangerine ",
+    "IncorrectAnswers": [
+      "Apple & Banana",
+      "Peach & Nectarine",
+      "Durian & Jackfruit"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"Which two fruits are crossed to make an ugly fruit?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "music",
+    "Id": "622a1c347cc59eab6f94fba4",
+    "CorrectAnswer": "\"Crazy Train\" by Ozzy Osbourne",
+    "IncorrectAnswers": [
+      "\"Bohemian Rhapsody\" by Queen",
+      "\"Immigrant Song\" by Led Zeppelin",
+      "\"Let's Go Crazy\" by Prince and The Revolution"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"Which song begins with the lyrics: \\\"ALL ABOARD! (maniacal laughter)\\\"?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "arts_and_literature",
+    "Id": "646140774d46e537ca8cd9b8",
+    "CorrectAnswer": "Saul Bellow",
+    "IncorrectAnswers": [
+      "Philip Roth",
+      "John Cheever",
+      "Flannery O'Connor"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"Who is the author of the books 'Mr. Sammler's Planet' and 'Herzog'?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "geography",
+    "Id": "622a1c387cc59eab6f950abc",
+    "CorrectAnswer": "Finland",
+    "IncorrectAnswers": [
+      "Kyrgyzstan",
+      "Tajikistan",
+      "Uzbekistan"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"Which of these countries borders Russia?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "music",
+    "Id": "622a1c357cc59eab6f94fea1",
+    "CorrectAnswer": "Rihanna",
+    "IncorrectAnswers": [
+      "Drake",
+      "Nicki Minaj",
+      "Ricky Martin"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"Which singer released the studio album 'Good Girl Gone Bad'?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "geography",
+    "Id": "62602dc04b176d54800e3cab",
+    "CorrectAnswer": "Geneva",
+    "IncorrectAnswers": [
+      "Budapest",
+      "Valencia",
+      "Prague"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"Which of these cities is in Switzerland?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "music",
+    "Id": "622a1c387cc59eab6f950b9d",
+    "CorrectAnswer": "Wings",
+    "IncorrectAnswers": [
+      "Level 42",
+      "Deep Purple",
+      "The Chemical Brothers"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"Which British–American rock band led by Paul McCartney released the song 'Live and Let Die'?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "science",
+    "Id": "622a1c3a7cc59eab6f9510af",
+    "CorrectAnswer": "Pascal",
+    "IncorrectAnswers": [
+      "Borland",
+      "Newton",
+      "Ohm"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"Name The SI Unit Of Pressure\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "society_and_culture",
+    "Id": "6477ba5c550bc819ad646a8f",
+    "CorrectAnswer": "Triton",
+    "IncorrectAnswers": [
+      "Hercules",
+      "Jason",
+      "Perseus"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"Who is the son of Poseidon in Greek mythology and the undersea king in a Disney movie?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "society_and_culture",
+    "Id": "6262af7f4b176d54800e3dcb",
+    "CorrectAnswer": "Too Long Didn't Read",
+    "IncorrectAnswers": [
+      "Top Level Domain Redirect",
+      "Tomorrow Let's Damn Remember",
+      "Trying Little Does Revolutions"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"What do the letters 'TLDR' mean on internet chats?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "geography",
+    "Id": "62374047cb85f7ce9e949cee",
+    "CorrectAnswer": "Quito",
+    "IncorrectAnswers": [
+      "Lilongwe",
+      "Cairo",
+      "Santo Domingo"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"What is the capital city of Ecuador?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "film_and_tv",
+    "Id": "62573fd09da29df7b05f73ae",
+    "CorrectAnswer": "The claustrophobic world of a WWII German U-boat.",
+    "IncorrectAnswers": [
+      "A former Roman General seeks revenge against the emperor who murdered his family.",
+      "When two girls move to the country, they have adventures with the forest spirits who live nearby.",
+      "Prisoners of war plan to escape from a German camp during World War II."
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"What is the plot of the movie Das Boot?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "science",
+    "Id": "622a1c377cc59eab6f950538",
+    "CorrectAnswer": "Ants",
+    "IncorrectAnswers": [
+      "Wine",
+      "Water",
+      "Algae"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"What is Formicology the study of?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "science",
+    "Id": "622a1c3a7cc59eab6f9510bd",
+    "CorrectAnswer": "Catalyst",
+    "IncorrectAnswers": [
+      "Precursor",
+      "Solvent",
+      "Base"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"In dyeing what is the name given to the substance used for fixing the colour?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "geography",
+    "Id": "622a1c387cc59eab6f950800",
+    "CorrectAnswer": "Asia",
+    "IncorrectAnswers": [
+      "South America",
+      "Oceania",
+      "Europe"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"The country of Brunei is on which continent?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "sport_and_leisure",
+    "Id": "645aba5e158db1bd1779f1cf",
+    "CorrectAnswer": "University of Michigan",
+    "IncorrectAnswers": [
+      "Ohio State University",
+      "University of Notre Dame",
+      "Harvard University"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"In which university was Gerald Ford voted MVP of the football team in 1934?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "arts_and_literature",
+    "Id": "622a1c3a7cc59eab6f951383",
+    "CorrectAnswer": "Sherlock Holmes",
+    "IncorrectAnswers": [
+      "Harry Potter",
+      "The Lord of the Rings",
+      "Goosebumps"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"In which book series does Professor Moriarty appear?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "general_knowledge",
+    "Id": "622a1c367cc59eab6f950323",
+    "CorrectAnswer": "Charles Manson",
+    "IncorrectAnswers": [
+      "Ed Gein",
+      "Ted Bundy",
+      "Jim Jones"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"Who was the man convicted of masterminding the 1969 LaBianca-Tate murders?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "arts_and_literature",
+    "Id": "645c9ff442ea81e2554c5f9c",
+    "CorrectAnswer": "Donkey, dog, cat and rooster",
+    "IncorrectAnswers": [
+      "Horse, cow, pig and sheep",
+      "Mouse, rabbit, squirrel and fox",
+      "Duck, goose, swan and pigeon"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"In the Grimm fairy tale \\\"Town Musicians of Bremen\\\", which group of aging animals sets out for Bremen to become musicians?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "science",
+    "Id": "622a1c3a7cc59eab6f951046",
+    "CorrectAnswer": "81",
+    "IncorrectAnswers": [
+      "14",
+      "12",
+      "26"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"What is the atomic number for thalium?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "food_and_drink",
+    "Id": "622a1c367cc59eab6f9502d0",
+    "CorrectAnswer": "Eggplant ",
+    "IncorrectAnswers": [
+      "Zucchini",
+      "Cilantro",
+      "Squash"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"What do Americans call an Aubergine?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "society_and_culture",
+    "Id": "622a1c357cc59eab6f94fce4",
+    "CorrectAnswer": "Indo-European",
+    "IncorrectAnswers": [
+      "Afroasiatic",
+      "Kra–Dai",
+      "Uralic"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"The language 'Gujarati' belongs to which language family?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "science",
+    "Id": "6243353ccfaae40c12961493",
+    "CorrectAnswer": "A Cow",
+    "IncorrectAnswers": [
+      "A Jenny",
+      "A Worker",
+      "A Lioness"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"What is the word for a female seal?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "science",
+    "Id": "62443753746187c5e7be9347",
+    "CorrectAnswer": "Dolomite",
+    "IncorrectAnswers": [
+      "Gypsum",
+      "Baking Soda",
+      "Marsh Gas"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"What is calcium magnesium carbonate commonly known as?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "food_and_drink",
+    "Id": "622a1c367cc59eab6f950239",
+    "CorrectAnswer": "Saffron ",
+    "IncorrectAnswers": [
+      "Turmeric",
+      "Cumin",
+      "Paprika"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"Which spice is obtained from crocuses?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "film_and_tv",
+    "Id": "625740bf9da29df7b05f73f5",
+    "CorrectAnswer": "A mother personally challenges the local authorities to solve her daughter's murder.",
+    "IncorrectAnswers": [
+      "The drug-induced utopias of four addicts are shattered when their addictions run deep.",
+      "A paleontologist is tasked with protecting two children when cloned dinosaurs are set free.",
+      "A destitute family builds a symbiotic relationship with a wealthy family."
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"What is the plot of the movie Three Billboards Outside Ebbing, Missouri?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "music",
+    "Id": "622a1c387cc59eab6f950b0f",
+    "CorrectAnswer": "Grateful Dead",
+    "IncorrectAnswers": [
+      "The Band",
+      "The Allman Brothers Band",
+      "Jefferson Airplane"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"Which band includes the musician Jerry Garcia?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "society_and_culture",
+    "Id": "637162881bf863c45ca6c383",
+    "CorrectAnswer": "Nothing is arduous for the willing",
+    "IncorrectAnswers": [
+      "Let them hate so long as they fear",
+      "Seize the wine",
+      "I am not led, I lead"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"How does that Latin phrase 'Nil volentibus arduum' translate into English?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "society_and_culture",
+    "Id": "622a1c357cc59eab6f94fcac",
+    "CorrectAnswer": "Turkic",
+    "IncorrectAnswers": [
+      "Afroasiatic",
+      "Sino-Tibetan",
+      "Dravidian"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"The language 'South Azerbaijani' belongs to which language family?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "society_and_culture",
+    "Id": "6266e610ff2394bd44dee02e",
+    "CorrectAnswer": "One",
+    "IncorrectAnswers": [
+      "Yellow",
+      "Eight",
+      "Ten"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"In Spanish, what is the meaning of the word 'uno'?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "society_and_culture",
+    "Id": "62c2f9ddb3eadb0437fda6aa",
+    "CorrectAnswer": "Playboy",
+    "IncorrectAnswers": [
+      "Lamborghini",
+      "Peugeot",
+      "Nestlé"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"Which of these brands has a rabbit on its logo?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "arts_and_literature",
+    "Id": "622a1c367cc59eab6f950319",
+    "CorrectAnswer": "J.D Salinger",
+    "IncorrectAnswers": [
+      "Henry Rollins",
+      "Chuck Palahnuik",
+      "Jack Kerouac"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"Who Wrote The 1951 Novel The Catcher in the Rye?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "geography",
+    "Id": "625e9dc0796f721e95543f2a",
+    "CorrectAnswer": "Three equal horizontal bands of red white and red.",
+    "IncorrectAnswers": [
+      "Three equal vertical bands of green, yellow, and red.",
+      "Red field with a yellow sun in the center.",
+      "Green with a yellow diamond in the center with a blue celestial globe."
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"What does the flag of Austria look like?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "science",
+    "Id": "622a1c377cc59eab6f950595",
+    "CorrectAnswer": "The origin of life",
+    "IncorrectAnswers": [
+      "Black holes",
+      "The ecology of any individual species",
+      "The biosphere"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"What is astrobiology the study of?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "music",
+    "Id": "622a1c397cc59eab6f950d8a",
+    "CorrectAnswer": "Nirvana",
+    "IncorrectAnswers": [
+      "Counting Crows",
+      "Three 6 Mafia",
+      "The Velvet Underground"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"Which band includes 'Dave Grohl'?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "science",
+    "Id": "622a1c3a7cc59eab6f9510cc",
+    "CorrectAnswer": "Stomach",
+    "IncorrectAnswers": [
+      "Heart",
+      "Liver",
+      "Lungs"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"Gastritis affects the __________.\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "film_and_tv",
+    "Id": "622a1c347cc59eab6f94fbd5",
+    "CorrectAnswer": "\"I’m just one stomach flu away from my goal weight.\"",
+    "IncorrectAnswers": [
+      "\"I'll be back.\"",
+      "\"Tell 'em to go out there with all they got and win just one for the Gipper.\"",
+      "\"I'm the king of the world!\""
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"Which of these quotes is from the film 'The Devil Wears Prada'?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "society_and_culture",
+    "Id": "622a1c357cc59eab6f94fd0f",
+    "CorrectAnswer": "Immanuel Kant",
+    "IncorrectAnswers": [
+      "Jean-Paul Sartre",
+      "Spinoza",
+      "St. Augustine"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"Which philosopher famously said 'Morality is not the doctrine of how we may make ourselves happy, but of how we may make ourselves worthy of happiness'?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "music",
+    "Id": "622a1c397cc59eab6f950cf1",
+    "CorrectAnswer": "Queen",
+    "IncorrectAnswers": [
+      "Level 42",
+      "Deep Purple",
+      "Feeder"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"Which British rock band released the album 'Made in Heaven'?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "music",
+    "Id": "622a1c357cc59eab6f94fdb1",
+    "CorrectAnswer": "John Lydon",
+    "IncorrectAnswers": [
+      "Thomas King",
+      "Thomas Blythe",
+      "John Rudden"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"What Is Johnny Rotten's Real Name?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "history",
+    "Id": "622a1c3c7cc59eab6f95198a",
+    "CorrectAnswer": "It Was Sold To The United States",
+    "IncorrectAnswers": [
+      "It had the most deadly volcanic eruption in history",
+      "The first recorded meteor impact",
+      "It declared independence"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"What Happened To Alaska In 1867?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "arts_and_literature",
+    "Id": "622a1c397cc59eab6f950eca",
+    "CorrectAnswer": "James Joyce",
+    "IncorrectAnswers": [
+      "Samuel Beckett",
+      "Oscar Wilde",
+      "Jonathan Swift"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"Which author wrote 'A Portrait of the Artist as a Young Man'?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "geography",
+    "Id": "623b57a6fd6c701a9211836f",
+    "CorrectAnswer": "Mexico",
+    "IncorrectAnswers": [
+      "Israel",
+      "Indonesia",
+      "Greece"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"In which country would you find Chichen Itza?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "arts_and_literature",
+    "Id": "622a1c397cc59eab6f950f6f",
+    "CorrectAnswer": "Arthur Conan Doyle",
+    "IncorrectAnswers": [
+      "Agatha Christie",
+      "Oscar Wilde",
+      "George Orwell"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"Which author wrote 'canon of Sherlock Holmes'?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "science",
+    "Id": "622a1c377cc59eab6f95048f",
+    "CorrectAnswer": "China",
+    "IncorrectAnswers": [
+      "fossil footprints, tracks and burrows",
+      "the moon",
+      "everything"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"What is Sinology the study of?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "geography",
+    "Id": "62602e474b176d54800e3ccf",
+    "CorrectAnswer": "Poland",
+    "IncorrectAnswers": [
+      "Iceland",
+      "Macedonia",
+      "Slovenia"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"Where would you find the city of Kraków?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "sport_and_leisure",
+    "Id": "62399ef4df092f29084bd6b8",
+    "CorrectAnswer": "Italy",
+    "IncorrectAnswers": [
+      "Brazil",
+      "United States",
+      "Switzerland"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"Which country hosted the 1990 FIFA World Cup?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "film_and_tv",
+    "Id": "622a1c347cc59eab6f94fc25",
+    "CorrectAnswer": "\"We'll always have Paris.\"",
+    "IncorrectAnswers": [
+      "\"Well, I don’t want to survive. I want to live.\"",
+      "\"Just keep swimming.\"",
+      "\"I am a golden god!\""
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"Which of these quotes is from the film 'Casablanca'?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "music",
+    "Id": "622a1c357cc59eab6f94fe83",
+    "CorrectAnswer": "Lady Gaga",
+    "IncorrectAnswers": [
+      "Hikaru Utada",
+      "Drake",
+      "Madonna"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"Which American singer, songwriter, and actress released the song 'Poker Face'?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "history",
+    "Id": "622a1c3d7cc59eab6f951bfb",
+    "CorrectAnswer": "Jim Jones",
+    "IncorrectAnswers": [
+      "Mark Matthews",
+      "Tom Taylor",
+      "Brian Bosworth"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"Which cult leader led 900 followers in a mass suicide in 1979?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "history",
+    "Id": "622a1c3c7cc59eab6f951b42",
+    "CorrectAnswer": "1666",
+    "IncorrectAnswers": [
+      "1366",
+      "1466",
+      "1566"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"In What Year Did The Great Fire Of London Occur?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "science",
+    "Id": "622a1c3f7cc59eab6f95238f",
+    "CorrectAnswer": "Vinegar",
+    "IncorrectAnswers": [
+      "Aspirin",
+      "Lemon Juice",
+      "Soap"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"Acetic Acid Is More Commonly Known As What?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "film_and_tv",
+    "Id": "622a1c347cc59eab6f94faac",
+    "CorrectAnswer": "Whoopi Goldberg",
+    "IncorrectAnswers": [
+      "Annette Bening",
+      "Lorraine Bracco",
+      "Diane Ladd"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"Who won the 1990 Academy Award for Best Supporting Actress for playing the role of Oda Mae Brown in Ghost?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "music",
+    "Id": "64824e397778562fd76a9618",
+    "CorrectAnswer": "Tupac",
+    "IncorrectAnswers": [
+      "Notorious B.I.G.",
+      "Nas",
+      "Snoop Dogg"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"Which rapper released the song 'California Love'?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "science",
+    "Id": "648891b84cd3f064f443dc3c",
+    "CorrectAnswer": "A Triangle",
+    "IncorrectAnswers": [
+      "A Square",
+      "A Circle",
+      "A Rectangle"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"What type of shape might be obtuse or isosceles?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "science",
+    "Id": "64e6536e0b79e5bedd54950d",
+    "CorrectAnswer": "Novocaine",
+    "IncorrectAnswers": [
+      "Lidocaine",
+      "Cocaine",
+      "Morphine"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"In 1905, German scientist Alfred Einhorn created the first injectable local anesthetic used in dentistry. What is it called?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "arts_and_literature",
+    "Id": "622a1c397cc59eab6f950f83",
+    "CorrectAnswer": "Agatha Christie",
+    "IncorrectAnswers": [
+      "Robert Louis Stevenson",
+      "Charles Dickens",
+      "Lewis Carroll"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"Which author wrote 'The Murder of Roger Ackroyd'?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "history",
+    "Id": "622a1c3c7cc59eab6f951ae6",
+    "CorrectAnswer": "1997",
+    "IncorrectAnswers": [
+      "1982",
+      "1967",
+      "1952"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"In which year did the UK return Hong Kong sovereignty to China?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "film_and_tv",
+    "Id": "622a1c367cc59eab6f950201",
+    "CorrectAnswer": "Bryan Singer",
+    "IncorrectAnswers": [
+      "Steven Spielberg",
+      "Woody Allen",
+      "Martin Scorsese"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"Which director directed X-Men?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "arts_and_literature",
+    "Id": "622a1c3c7cc59eab6f9519e9",
+    "CorrectAnswer": "A Pig",
+    "IncorrectAnswers": [
+      "A Horse",
+      "A Snake",
+      "A Swan"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"What animal is Snowball in George Orwell's book Animal Farm?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "music",
+    "Id": "625064bfe12f6dec240bdfca",
+    "CorrectAnswer": "Young MC",
+    "IncorrectAnswers": [
+      "Blind Melon",
+      "The Weather Girls",
+      "Faith No More"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"Who had a hit in 1989 with Bust a Move?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "arts_and_literature",
+    "Id": "622a1c397cc59eab6f950f41",
+    "CorrectAnswer": "Edgar Allan Poe",
+    "IncorrectAnswers": [
+      "Stephen King",
+      "Nathaniel Hawthorne",
+      "Mario Puzo"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"Which author wrote 'The Masque of the Red Death'?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "geography",
+    "Id": "62374144cb85f7ce9e949d54",
+    "CorrectAnswer": "Kuala Lumpur",
+    "IncorrectAnswers": [
+      "Luanda",
+      "Doha",
+      "Kampala"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"What is the capital city of Malaysia?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "film_and_tv",
+    "Id": "622a1c347cc59eab6f94fb4f",
+    "CorrectAnswer": "Annie Hall",
+    "IncorrectAnswers": [
+      "The Goodbye Girl",
+      "Julia",
+      "Star Wars"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"Which film won the Academy Award for Best Picture in 1977?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "science",
+    "Id": "6243339fcfaae40c129613f3",
+    "CorrectAnswer": "A Buck",
+    "IncorrectAnswers": [
+      "A Macho",
+      "A Cob",
+      "A Tom"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"What is the word for a male deer?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "society_and_culture",
+    "Id": "63b0586d4799123c67712f27",
+    "CorrectAnswer": "Rupee",
+    "IncorrectAnswers": [
+      "Dollar",
+      "Yen",
+      "Ren"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"What is the currency of India?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "food_and_drink",
+    "Id": "624ab06fc64ce21c11f06e9b",
+    "CorrectAnswer": "South America",
+    "IncorrectAnswers": [
+      "Southeast Asia",
+      "Europe",
+      "India"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"Where in the world are avocados originally from?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "music",
+    "Id": "622a1c357cc59eab6f94ff40",
+    "CorrectAnswer": "Michael Jackson",
+    "IncorrectAnswers": [
+      "Nicki Minaj",
+      "Neil Young",
+      "Eric Clapton"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"Which American singer, songwriter and dancer released the song 'Love Never Felt So Good'?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "science",
+    "Id": "646339bc01d576cfac3aa3b0",
+    "CorrectAnswer": "Spina bifida",
+    "IncorrectAnswers": [
+      "Down syndrome",
+      "Cleft lip",
+      "Clubfoot"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"What birth defect, whose name means 'divided spine', is credited with being reduced by folic acid?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  },
+  {
+    "Category": "geography",
+    "Id": "6233867c62eaad73716a8cd7",
+    "CorrectAnswer": "Jerusalem",
+    "IncorrectAnswers": [
+      "Krakow",
+      "Moscow",
+      "Beijing"
+    ],
+    "Question": {
+      "Text": "{\r\n  \"text\": \"Where is the wailing wall?\"\r\n}"
+    },
+    "Tags": null,
+    "Type": null,
+    "Difficulty": null,
+    "Regions": null,
+    "IsNiche": false
+  }
+]

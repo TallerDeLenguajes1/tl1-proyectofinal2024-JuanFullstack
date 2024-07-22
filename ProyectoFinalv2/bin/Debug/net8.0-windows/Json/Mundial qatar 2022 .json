@@ -1,0 +1,740 @@
+[
+  {
+    "Category": "DefaultCategory",
+    "Id": "750a500499a04874b2e415b2ba7c82e5",
+    "CorrectAnswer": "Argentina",
+    "IncorrectAnswers": [
+      "Francia",
+      "Brasil",
+      "Alemania"
+    ],
+    "Question": {
+      "Text": "¿Quién ganó el Mundial de Qatar 2022?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "7b9db41fe7b84f97b28870197bb493be",
+    "CorrectAnswer": "Lusail",
+    "IncorrectAnswers": [
+      "Doha",
+      "Al Rayyan",
+      "Al Wakrah"
+    ],
+    "Question": {
+      "Text": "¿En qué ciudad se jugó la final del Mundial de Qatar 2022?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "86c294424dff43dda0da89e586f43399",
+    "CorrectAnswer": "Kylian Mbappé",
+    "IncorrectAnswers": [
+      "Lionel Messi",
+      "Harry Kane",
+      "Cristiano Ronaldo"
+    ],
+    "Question": {
+      "Text": "¿Quién fue el máximo goleador del Mundial de Qatar 2022?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "d0fff60aeae24ac58aa055585a9bd813",
+    "CorrectAnswer": "3-3 (Argentina ganó en penales)",
+    "IncorrectAnswers": [
+      "2-1",
+      "1-0",
+      "4-2"
+    ],
+    "Question": {
+      "Text": "¿Cuál fue el resultado de la final del Mundial de Qatar 2022?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "49ae79a16c83451eb23528b7c4f0bb0d",
+    "CorrectAnswer": "Lionel Messi",
+    "IncorrectAnswers": [
+      "Kylian Mbappé",
+      "Luka Modrić",
+      "Neymar"
+    ],
+    "Question": {
+      "Text": "¿Quién fue elegido como el mejor jugador del Mundial de Qatar 2022?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "ec593430c5f74607a0c66204037229be",
+    "CorrectAnswer": "7",
+    "IncorrectAnswers": [
+      "6",
+      "8",
+      "5"
+    ],
+    "Question": {
+      "Text": "¿Cuántos goles anotó Lionel Messi en el Mundial de Qatar 2022?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "38fb669765de466c809030e56ecb6216",
+    "CorrectAnswer": "32",
+    "IncorrectAnswers": [
+      "24",
+      "28",
+      "36"
+    ],
+    "Question": {
+      "Text": "¿Cuántos equipos participaron en el Mundial de Qatar 2022?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "41b485cced264c6bbbf6ed4c0439cc6c",
+    "CorrectAnswer": "Lionel Scaloni",
+    "IncorrectAnswers": [
+      "Jorge Sampaoli",
+      "Tata Martino",
+      "Diego Maradona"
+    ],
+    "Question": {
+      "Text": "¿Quién fue el entrenador de la selección de Argentina en el Mundial de Qatar 2022?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "02802b1cb6044ae4bc0cd63f85b2c616",
+    "CorrectAnswer": "Marruecos",
+    "IncorrectAnswers": [
+      "Croacia",
+      "Japón",
+      "Senegal"
+    ],
+    "Question": {
+      "Text": "¿Qué selección fue la sorpresa del Mundial de Qatar 2022 al llegar a las semifinales?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "1a51ad19a6844a108525a11b703d1119",
+    "CorrectAnswer": "Al Bayt",
+    "IncorrectAnswers": [
+      "Lusail",
+      "Education City",
+      "Khalifa International"
+    ],
+    "Question": {
+      "Text": "¿En qué estadio se jugó el partido inaugural del Mundial de Qatar 2022?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "09d970127fd3463f827eff6e8c7fb2b8",
+    "CorrectAnswer": "Emiliano Martínez",
+    "IncorrectAnswers": [
+      "Franco Armani",
+      "Gerónimo Rulli",
+      "Esteban Andrada"
+    ],
+    "Question": {
+      "Text": "¿Quién fue el portero titular de Argentina en la final del Mundial de Qatar 2022?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "92d3803ebfc64e989210f2fab7111c09",
+    "CorrectAnswer": "Hugo Lloris",
+    "IncorrectAnswers": [
+      "Antoine Griezmann",
+      "Raphaël Varane",
+      "Paul Pogba"
+    ],
+    "Question": {
+      "Text": "¿Quién fue el capitán de la selección de Francia en el Mundial de Qatar 2022?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "9f2d033972ee4e1c81730f93bbf764a2",
+    "CorrectAnswer": "172",
+    "IncorrectAnswers": [
+      "158",
+      "165",
+      "180"
+    ],
+    "Question": {
+      "Text": "¿Cuántos goles se marcaron en total en el Mundial de Qatar 2022?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "18fb39b723c44a34933c87e4faaaa53e",
+    "CorrectAnswer": "Noviembre",
+    "IncorrectAnswers": [
+      "Octubre",
+      "Diciembre",
+      "Septiembre"
+    ],
+    "Question": {
+      "Text": "¿En qué mes comenzó el Mundial de Qatar 2022?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "868d06caa0c24949b6cf958283702c86",
+    "CorrectAnswer": "Enzo Fernández",
+    "IncorrectAnswers": [
+      "Pedri",
+      "Jude Bellingham",
+      "Gavi"
+    ],
+    "Question": {
+      "Text": "¿Quién ganó el premio al mejor joven del Mundial de Qatar 2022?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "91ef331bd8794db599c2a781e1ebab59",
+    "CorrectAnswer": "Inglaterra",
+    "IncorrectAnswers": [
+      "Japón",
+      "Dinamarca",
+      "Suiza"
+    ],
+    "Question": {
+      "Text": "¿Qué selección ganó el premio al juego limpio en el Mundial de Qatar 2022?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "8a424333317e4605a6fd0b45d8c556f6",
+    "CorrectAnswer": "Julián Álvarez",
+    "IncorrectAnswers": [
+      "Rodrigo De Paul",
+      "Leandro Paredes",
+      "Ángel Di María"
+    ],
+    "Question": {
+      "Text": "¿Quién fue el jugador revelación de la selección de Argentina en el Mundial de Qatar 2022?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "fc660c18deab4f73a19287a4aca93a39",
+    "CorrectAnswer": "3",
+    "IncorrectAnswers": [
+      "2",
+      "4",
+      "1"
+    ],
+    "Question": {
+      "Text": "¿Cuántas veces ha ganado Argentina la Copa del Mundo hasta 2022?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "3c79ede596d543ed9769d4f9631e8ff4",
+    "CorrectAnswer": "10",
+    "IncorrectAnswers": [
+      "8",
+      "12",
+      "14"
+    ],
+    "Question": {
+      "Text": "¿Cuántos penales se lanzaron en la tanda de penales de la final del Mundial de Qatar 2022?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "dc6192dffc9f47e5890920a5d8e4e9e1",
+    "CorrectAnswer": "Lionel Messi",
+    "IncorrectAnswers": [
+      "Ángel Di María",
+      "Kylian Mbappé",
+      "Olivier Giroud"
+    ],
+    "Question": {
+      "Text": "¿Quién anotó el primer gol en la final del Mundial de Qatar 2022?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "7f7047fac0d04d4485e5501102b90329",
+    "CorrectAnswer": "2-0",
+    "IncorrectAnswers": [
+      "1-1",
+      "3-1",
+      "0-0"
+    ],
+    "Question": {
+      "Text": "¿Cuál fue el resultado del partido entre Argentina y México en la fase de grupos?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "2cd7815dcf794b76a0d81f37c7b3d9e7",
+    "CorrectAnswer": "Croacia",
+    "IncorrectAnswers": [
+      "Francia",
+      "Bélgica",
+      "Holanda"
+    ],
+    "Question": {
+      "Text": "¿Qué selección eliminó a Brasil en los cuartos de final del Mundial de Qatar 2022?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "24813f68fde74d14b196016b9bf17c6e",
+    "CorrectAnswer": "Szymon Marciniak",
+    "IncorrectAnswers": [
+      "Daniele Orsato",
+      "Antonio Mateu Lahoz",
+      "Michael Oliver"
+    ],
+    "Question": {
+      "Text": "¿Quién fue el árbitro de la final del Mundial de Qatar 2022?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "72e9ec820d324defb4f3bbfacee5ce32",
+    "CorrectAnswer": "5",
+    "IncorrectAnswers": [
+      "7",
+      "4",
+      "6"
+    ],
+    "Question": {
+      "Text": "¿Cuántas tarjetas rojas se mostraron en el Mundial de Qatar 2022?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "52a2002e3dc64a05a4309000a806dff5",
+    "CorrectAnswer": "La'eeb",
+    "IncorrectAnswers": [
+      "Zakumi",
+      "Fuleco",
+      "Gauchito"
+    ],
+    "Question": {
+      "Text": "¿Cuál fue la mascota oficial del Mundial de Qatar 2022?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "c20a852c47e544998f07a2ccd9e8dec8",
+    "CorrectAnswer": "Lionel Messi",
+    "IncorrectAnswers": [
+      "Olivier Giroud",
+      "Julian Álvarez",
+      "Neymar"
+    ],
+    "Question": {
+      "Text": "¿Quién fue el segundo máximo goleador del Mundial de Qatar 2022?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "7faf5717cc044ed7adb0314f753ab790",
+    "CorrectAnswer": "64",
+    "IncorrectAnswers": [
+      "62",
+      "60",
+      "66"
+    ],
+    "Question": {
+      "Text": "¿Cuántos partidos se jugaron en el Mundial de Qatar 2022?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "c5c5a6b0f7534ab6913bba51f7ee36ec",
+    "CorrectAnswer": "Francia",
+    "IncorrectAnswers": [
+      "Argentina",
+      "Brasil",
+      "Portugal"
+    ],
+    "Question": {
+      "Text": "¿Qué selección anotó más goles en el Mundial de Qatar 2022?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "c8322c1187f4467fab05f4422d63391b",
+    "CorrectAnswer": "8",
+    "IncorrectAnswers": [
+      "6",
+      "7",
+      "10"
+    ],
+    "Question": {
+      "Text": "¿Cuántos estadios se utilizaron en el Mundial de Qatar 2022?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "7fd56a2504b84f4da171fcfaea746bf9",
+    "CorrectAnswer": "Lusail",
+    "IncorrectAnswers": [
+      "Al Bayt",
+      "Education City",
+      "Ahmad Bin Ali"
+    ],
+    "Question": {
+      "Text": "¿En qué estadio se jugó la final del Mundial de Qatar 2022?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "0632f289c42e4863bde8f2639000b2d4",
+    "CorrectAnswer": "Kylian Mbappé",
+    "IncorrectAnswers": [
+      "Antoine Griezmann",
+      "Kingsley Coman",
+      "Ousmane Dembélé"
+    ],
+    "Question": {
+      "Text": "¿Quién anotó el gol del empate 3-3 para Francia en la final del Mundial de Qatar 2022?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "772db8bc377848f68bd1eb9abec80a56",
+    "CorrectAnswer": "3",
+    "IncorrectAnswers": [
+      "2",
+      "1",
+      "4"
+    ],
+    "Question": {
+      "Text": "¿Cuántos goles anotó Kylian Mbappé en la final del Mundial de Qatar 2022?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "277cd9e72f294ce7a20a5b32444c0154",
+    "CorrectAnswer": "Arabia Saudita",
+    "IncorrectAnswers": [
+      "Ghana",
+      "Catar",
+      "Panamá"
+    ],
+    "Question": {
+      "Text": "¿Qué selección ganó su primer partido en un Mundial en Qatar 2022?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "a28781739ef64092868be8bfdaef2449",
+    "CorrectAnswer": "Romain Saïss",
+    "IncorrectAnswers": [
+      "Achraf Hakimi",
+      "Hakim Ziyech",
+      "Youssef En-Nesyri"
+    ],
+    "Question": {
+      "Text": "¿Quién fue el capitán de la selección de Marruecos en el Mundial de Qatar 2022?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "8815bfeb5efe4af4b026712f78afec9c",
+    "CorrectAnswer": "Catar",
+    "IncorrectAnswers": [
+      "Gales",
+      "Serbia",
+      "Irán"
+    ],
+    "Question": {
+      "Text": "¿Qué selección perdió todos sus partidos en la fase de grupos del Mundial de Qatar 2022?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "6db5ccbfe7ac4ec68e7ea850a0dbdbe8",
+    "CorrectAnswer": "Lionel Messi",
+    "IncorrectAnswers": [
+      "Antoine Griezmann",
+      "Bruno Fernandes",
+      "Luka Modrić"
+    ],
+    "Question": {
+      "Text": "¿Quién fue el segundo máximo asistente del Mundial de Qatar 2022?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "d3e506183f4849efabf45828f13f22d7",
+    "CorrectAnswer": "2",
+    "IncorrectAnswers": [
+      "1",
+      "3",
+      "4"
+    ],
+    "Question": {
+      "Text": "¿Cuántos goles anotó Lionel Messi en la final del Mundial de Qatar 2022?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "8ae98f12f53340958e4858b6555e3b0c",
+    "CorrectAnswer": "Hugo Lloris",
+    "IncorrectAnswers": [
+      "Mike Maignan",
+      "Steve Mandanda",
+      "Alphonse Areola"
+    ],
+    "Question": {
+      "Text": "¿Quién fue el portero titular de Francia en la final del Mundial de Qatar 2022?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "8984585a051547b4bbc951b67b68744f",
+    "CorrectAnswer": "Lautaro Martínez",
+    "IncorrectAnswers": [
+      "Lionel Messi",
+      "Enzo Fernández",
+      "Rodrigo De Paul"
+    ],
+    "Question": {
+      "Text": "¿Quién fue el autor del gol de la victoria de Argentina contra Países Bajos en los cuartos de final del Mundial de Qatar 2022?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "b53d5804a8194ed782e7be12408bd992",
+    "CorrectAnswer": "Enner Valencia",
+    "IncorrectAnswers": [
+      "Lionel Messi",
+      "Cristiano Ronaldo",
+      "Neymar"
+    ],
+    "Question": {
+      "Text": "¿Quién anotó el primer gol en el Mundial de Qatar 2022?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "1b35bb3c0aee4fbaa5679ac5165a092d",
+    "CorrectAnswer": "Emiliano Martínez",
+    "IncorrectAnswers": [
+      "Thibaut Courtois",
+      "Hugo Lloris",
+      "Alisson Becker"
+    ],
+    "Question": {
+      "Text": "¿Quién ganó el premio al mejor portero del Mundial de Qatar 2022?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  }
+]

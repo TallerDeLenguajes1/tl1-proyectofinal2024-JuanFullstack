@@ -1,0 +1,722 @@
+[
+  {
+    "Category": "DefaultCategory",
+    "Id": "8a7a877ae5a340439e3d0e84d1834c08",
+    "CorrectAnswer": "Akira Toriyama",
+    "IncorrectAnswers": [
+      "Masashi Kishimoto",
+      "Eiichiro Oda",
+      "Tite Kubo"
+    ],
+    "Question": {
+      "Text": "¿Quién es el creador de Dragon Ball Z?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "1e276fec6ddf470c815056cac90890e7",
+    "CorrectAnswer": "Goku",
+    "IncorrectAnswers": [
+      "Vegeta",
+      "Gohan",
+      "Piccolo"
+    ],
+    "Question": {
+      "Text": "¿Quién es el protagonista principal de Dragon Ball Z?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "f545281b47c74892ad9d8f89d83396e8",
+    "CorrectAnswer": "Planeta Vegeta",
+    "IncorrectAnswers": [
+      "Planeta Namek",
+      "Planeta Tierra",
+      "Planeta Freezer"
+    ],
+    "Question": {
+      "Text": "¿En qué planeta se originan los Saiyajins?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "8991c7e2b4c644f4806686792bc99e9d",
+    "CorrectAnswer": "Raditz",
+    "IncorrectAnswers": [
+      "Nappa",
+      "Turles",
+      "Broly"
+    ],
+    "Question": {
+      "Text": "¿Cuál es el nombre del hermano mayor de Goku?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "70b4690a04e44d5a8336b64cca3fdb6e",
+    "CorrectAnswer": "Shunkan Idou",
+    "IncorrectAnswers": [
+      "Kamehameha",
+      "Kaioken",
+      "Genkidama"
+    ],
+    "Question": {
+      "Text": "¿Qué técnica utiliza Goku para teletransportarse?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "6e9d72c3f1c3491f99437de0e1870f17",
+    "CorrectAnswer": "Vegeta",
+    "IncorrectAnswers": [
+      "Raditz",
+      "Nappa",
+      "Bardock"
+    ],
+    "Question": {
+      "Text": "¿Cuál es el nombre del príncipe de los Saiyajins?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "8e7fbaa7a6754fe0823454789c2ad7a2",
+    "CorrectAnswer": "Freezer",
+    "IncorrectAnswers": [
+      "Cell",
+      "Majin Buu",
+      "Beerus"
+    ],
+    "Question": {
+      "Text": "¿Quién destruye el Planeta Vegeta?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "c95159aab485404683b9dfd98e146419",
+    "CorrectAnswer": "Gohan",
+    "IncorrectAnswers": [
+      "Goten",
+      "Trunks",
+      "Pan"
+    ],
+    "Question": {
+      "Text": "¿Cuál es el nombre del hijo mayor de Goku?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "b6c237d625714c2cad20eb038c35fc43",
+    "CorrectAnswer": "Maestro Roshi",
+    "IncorrectAnswers": [
+      "Korin",
+      "Kami",
+      "Mr. Popo"
+    ],
+    "Question": {
+      "Text": "¿Quién entrena a Goku y a Krillin cuando eran niños?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "6eb70e19d16a42358d4784254f39b6d4",
+    "CorrectAnswer": "Saga Saiyan",
+    "IncorrectAnswers": [
+      "Saga Freezer",
+      "Saga Cell",
+      "Saga Majin Buu"
+    ],
+    "Question": {
+      "Text": "¿En qué saga aparece por primera vez Vegeta?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "77e633d7675a4e0eaa0f97f9f68db87e",
+    "CorrectAnswer": "7",
+    "IncorrectAnswers": [
+      "5",
+      "6",
+      "9"
+    ],
+    "Question": {
+      "Text": "¿Cuántas bolas de dragón se necesitan para invocar a Shenlong?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "642fc8479fcb4aeb9dd634c97d97b3f8",
+    "CorrectAnswer": "Cell",
+    "IncorrectAnswers": [
+      "Androide 18",
+      "Androide 17",
+      "Dr. Gero"
+    ],
+    "Question": {
+      "Text": "¿Quién es el rival más poderoso de Goku en la saga de Cell?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "e1d4c1166e384ba18193927b55cb9dd0",
+    "CorrectAnswer": "Luna Llena",
+    "IncorrectAnswers": [
+      "Semilla del Hermitaño",
+      "Esferas del Dragón",
+      "Nube Voladora"
+    ],
+    "Question": {
+      "Text": "¿Qué objeto utilizan los Saiyajins para transformarse en Ozaru?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "63971253b708406bbe369f1a07e84063",
+    "CorrectAnswer": "Kami",
+    "IncorrectAnswers": [
+      "Korin",
+      "Mr. Popo",
+      "Dende"
+    ],
+    "Question": {
+      "Text": "¿Cómo se llama el maestro de Piccolo?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "e44049c558e7470592e4eb1b5ff5fdcd",
+    "CorrectAnswer": "Genkidama",
+    "IncorrectAnswers": [
+      "Kamehameha",
+      "Kaioken",
+      "Big Bang Attack"
+    ],
+    "Question": {
+      "Text": "¿Qué técnica utiliza Goku para crear una gran esfera de energía?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "b9105e8ea9384a4c8a56a3ddd515368f",
+    "CorrectAnswer": "Goku",
+    "IncorrectAnswers": [
+      "Vegeta",
+      "Gohan",
+      "Trunks"
+    ],
+    "Question": {
+      "Text": "¿Quién derrota a Freezer en Namek?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "d4a4b2c9750a4077b557ac0bdcdd8220",
+    "CorrectAnswer": "Dr. Gero",
+    "IncorrectAnswers": [
+      "Dr. Brief",
+      "Dr. Myu",
+      "Dr. Wheelo"
+    ],
+    "Question": {
+      "Text": "¿Quién es el creador de los Androides 17 y 18?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "5c2f0be7666d43cc849ec4de4b3b1c3b",
+    "CorrectAnswer": "Saga Majin Buu",
+    "IncorrectAnswers": [
+      "Saga Freezer",
+      "Saga Cell",
+      "Saga Saiyan"
+    ],
+    "Question": {
+      "Text": "¿En qué saga Goku alcanza por primera vez el estado de Super Saiyan 3?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "3be7a5bc7a664c13910db95f01c4429e",
+    "CorrectAnswer": "Chi-Chi",
+    "IncorrectAnswers": [
+      "Bulma",
+      "Lunch",
+      "Videl"
+    ],
+    "Question": {
+      "Text": "¿Cómo se llama la esposa de Goku?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "76e5d6e87a69469db179c5494bc2da50",
+    "CorrectAnswer": "Trunks",
+    "IncorrectAnswers": [
+      "Goten",
+      "Gohan",
+      "Bra"
+    ],
+    "Question": {
+      "Text": "¿Cuál es el nombre del primer hijo de Vegeta?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "208ff4f9ba0e49a79d60f590e8702f14",
+    "CorrectAnswer": "Majin Buu",
+    "IncorrectAnswers": [
+      "Goku",
+      "Vegeta",
+      "Mr. Satan"
+    ],
+    "Question": {
+      "Text": "¿Quién es el ser más fuerte del universo según la saga de Majin Buu?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "9a18156e14ca408cb39deba6c73e350b",
+    "CorrectAnswer": "Final Explosion",
+    "IncorrectAnswers": [
+      "Big Bang Attack",
+      "Galick Gun",
+      "Final Flash"
+    ],
+    "Question": {
+      "Text": "¿Qué técnica utiliza Vegeta para explotar su energía en un ataque suicida?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "6cbb21600b114799bc07068e675d2f05",
+    "CorrectAnswer": "Bardock",
+    "IncorrectAnswers": [
+      "King Vegeta",
+      "Raditz",
+      "Paragus"
+    ],
+    "Question": {
+      "Text": "¿Cómo se llama el padre de Goku?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "1f99e8bbffd6469a9ff3433f5f1446a6",
+    "CorrectAnswer": "Supreme Kai",
+    "IncorrectAnswers": [
+      "Old Kai",
+      "Dende",
+      "Elder Kai"
+    ],
+    "Question": {
+      "Text": "¿Quién fusiona a Goku y Vegeta en Vegetto?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "00f8387a8b464c6eaf767b0c1e925e60",
+    "CorrectAnswer": "Akira Toriyama",
+    "IncorrectAnswers": [
+      "Masashi Kishimoto",
+      "Eiichiro Oda",
+      "Tite Kubo"
+    ],
+    "Question": {
+      "Text": "¿Quién es el creador de Dragon Ball Z?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "66325702812e404da6b71033c0c60061",
+    "CorrectAnswer": "Vegeta",
+    "IncorrectAnswers": [
+      "Nappa",
+      "Raditz",
+      "Turles"
+    ],
+    "Question": {
+      "Text": "¿Quién es el principal villano en la saga de los Saiyajins?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "43727102c4184b2991402edc140acf79",
+    "CorrectAnswer": "Absorción",
+    "IncorrectAnswers": [
+      "Regeneración",
+      "Transformación",
+      "Transporte Instantáneo"
+    ],
+    "Question": {
+      "Text": "¿Cuál es el poder especial de Majin Buu que le permite absorber a otros?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "dc2d1d2cc6de46de8dceb5616be058ae",
+    "CorrectAnswer": "Gohan",
+    "IncorrectAnswers": [
+      "Goku",
+      "Vegeta",
+      "Piccolo"
+    ],
+    "Question": {
+      "Text": "¿Qué personaje mata a Cell?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "3d7b54db2d41433b93546d21232e50e6",
+    "CorrectAnswer": "Piccolo",
+    "IncorrectAnswers": [
+      "Goku",
+      "Vegeta",
+      "Krillin"
+    ],
+    "Question": {
+      "Text": "¿Quién entrena a Gohan en la saga de Cell?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "93ebbb1d9bd3418eacd5426998a6c886",
+    "CorrectAnswer": "Gohan",
+    "IncorrectAnswers": [
+      "Goku",
+      "Vegeta",
+      "Piccolo"
+    ],
+    "Question": {
+      "Text": "¿Qué guerrero Z es mitad humano y mitad saiyajin?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "ec7733cb37204e878930fd4be4732198",
+    "CorrectAnswer": "Majin Buu",
+    "IncorrectAnswers": [
+      "Goku",
+      "Vegeta",
+      "Mr. Satan"
+    ],
+    "Question": {
+      "Text": "¿Quién es el ser más fuerte del universo según la saga de Majin Buu?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "f44ba16b7d2b4e4e8706465bd73a7f29",
+    "CorrectAnswer": "Shenlong",
+    "IncorrectAnswers": [
+      "Porunga",
+      "Dende",
+      "Old Kai"
+    ],
+    "Question": {
+      "Text": "¿Qué personaje revive a Goku después de la saga de los Saiyajins?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "2e0cbae4a65c420296270f17a4110c14",
+    "CorrectAnswer": "Tarble",
+    "IncorrectAnswers": [
+      "Raditz",
+      "Turles",
+      "Broly"
+    ],
+    "Question": {
+      "Text": "¿Cuál es el nombre del hermano de Vegeta?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "50120e1c13504d999ae8b124707af1a5",
+    "CorrectAnswer": "Kaiosama",
+    "IncorrectAnswers": [
+      "Kami",
+      "Roshi",
+      "Mr. Popo"
+    ],
+    "Question": {
+      "Text": "¿Cómo se llama el maestro de Goku en el otro mundo?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "2d147687ccf84f6ea031bd11c8c704b1",
+    "CorrectAnswer": "Super Saiyan",
+    "IncorrectAnswers": [
+      "Kaioken",
+      "Ozaru",
+      "Ultra Instinct"
+    ],
+    "Question": {
+      "Text": "¿Qué transformación alcanza Goku durante la saga de Freezer?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "c65660bbcf0149408458d579412bbcfe",
+    "CorrectAnswer": "Capitán Ginyu",
+    "IncorrectAnswers": [
+      "Jeice",
+      "Burter",
+      "Recoome"
+    ],
+    "Question": {
+      "Text": "¿Quién es el líder de las Fuerzas Especiales Ginyu?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "7dc1ead0335a418ea6dca98db2ed4fd4",
+    "CorrectAnswer": "Torneo Mundial de Artes Marciales",
+    "IncorrectAnswers": [
+      "Torneo del Poder",
+      "Torneo del Otro Mundo",
+      "Torneo de Cell"
+    ],
+    "Question": {
+      "Text": "¿Cómo se llama el torneo donde Goku y Vegeta luchan por primera vez?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "084075c9af554e64972b061a1e189191",
+    "CorrectAnswer": "Vegeta",
+    "IncorrectAnswers": [
+      "Goku",
+      "Piccolo",
+      "Krillin"
+    ],
+    "Question": {
+      "Text": "¿Qué personaje se sacrifica para derrotar a Majin Buu?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "1e49c0c3305e4df0b6b083384e94ca84",
+    "CorrectAnswer": "Planeta del Norte",
+    "IncorrectAnswers": [
+      "Planeta del Sur",
+      "Planeta del Este",
+      "Planeta del Oeste"
+    ],
+    "Question": {
+      "Text": "¿Cómo se llama el planeta de entrenamiento de Kaiosama?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  },
+  {
+    "Category": "DefaultCategory",
+    "Id": "7c513c85dd7b43168a3f9965347506a7",
+    "CorrectAnswer": "Kamehameha",
+    "IncorrectAnswers": [
+      "Kaioken",
+      "Genkidama",
+      "Teletransportación"
+    ],
+    "Question": {
+      "Text": "¿Cuál es la primera técnica que aprende Goku?"
+    },
+    "Tags": [],
+    "Type": "DefaultType",
+    "Difficulty": "DefaultDifficulty",
+    "Regions": [],
+    "IsNiche": false
+  }
+]
